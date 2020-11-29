@@ -1,3 +1,1 @@
-## Welcome to GitHub Pages test2
-
-You can use the [editor on GitHub](https://github.com/jithu-chandran/jithu-chandran.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# This is a short introdduction to cox-ph regression model. The article covers the unique characteristics of survival data (eg. left/right censoring) and the thought process that lead to cox-ph regression model. The article also covres aspect of calculating the model parameters.
